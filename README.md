@@ -1,5 +1,5 @@
 ### Hey There, I'm Soham Desai! 👋
-![IMG_4725](https://github.com/desaisoham0/desaisoham0/assets/146281556/ffe40821-1679-41bd-958e-fd7774be84e0)
+<img src="https://github.com/desaisoham0/desaisoham0/assets/146281556/ffe40821-1679-41bd-958e-fd7774be84e0" width="400" alt="Soham Desai">
 
 🔭 **Currently Working On:** I'm deeply immersed in developing cutting-edge apps and exploring the vast world of web development. My latest project is a cross-platform website designed to streamline enhanced work.
 
