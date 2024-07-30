@@ -1,5 +1,5 @@
 ### Hey There, I'm Soham Desai! 👋
-<img src="soham_linkedln.png" width="400" alt="Soham Desai">
+<img src="soham_ski.png" width="400" alt="Soham Desai">
 
 🔭 **Currently Working On:** I'm deeply immersed in developing cutting-edge apps and exploring the vast world of web development. My latest project is a cross-platform website designed to streamline enhanced work.
 
